@@ -1,0 +1,2 @@
+# BoundIcarus.github.io
+blog
